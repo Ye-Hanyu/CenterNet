@@ -1,5 +1,7 @@
 legacy/*
 .DS_Store
+data/
+src/tools/voc/
 debug/*
 *.DS_Store
 *.json
